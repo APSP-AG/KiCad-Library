@@ -1,0 +1,31 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "APSP Library",
+    "description": "Company internal library",
+    "description_full": "You may need to manually update the library tables in the Library Manager to get the new symbols and footprints to show up: please refer to the GitHub link below for full documentation and installation instructions.\n\nThis is a library of KiCad schematic symbols and PCB footprints for most Arduino modules. You can use them to make your own PCB design which will effortlessly connect with your chosen Arduino module.",
+    "identifier": "com.github.APSP.APSP-kicad-library",
+    "type": "library",
+    "author": {
+        "name": "APSP",
+        "contact": {
+            "web": "https://github.com/APSP-AG"
+        }
+    },
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "github": "https://github.com/APSP-AG/KiCad-Library"
+    },
+    "tags": [
+        "footprints",
+        "symbols",
+        "arduino",
+        "modules"
+    ],
+    "versions": [
+        {
+            "version": "1.0.0",
+            "status": "stable",
+            "kicad_version": "6.0"
+        }
+    ]
+}
