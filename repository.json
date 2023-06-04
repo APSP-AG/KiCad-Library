@@ -8,10 +8,14 @@
     },
     "name": "APSP Repository",
     "packages": {
+        
+        "update_time_utc": "2023-05-23 11:01:08",
+        "update_timestamp": 1684839668,
         "url": "https://raw.githubusercontent.com/APSP-AG/KiCad-Library/main/packages.json"
     },
     "resources": {
-        
+        "update_time_utc": "2023-05-23 11:01:08",
+        "update_timestamp": 1684839668,
         "url": "https://github.com/APSP-AG/KiCad-Library/raw/main/resources.zip"
     }
 }
