@@ -8,41 +8,15 @@
     },
     "name": "APSP Repository",
     "packages": {
-        "name": "APSP Library",
-        "description": "Company internal library",
-        "description_full": "You may need to manually update the library tables in the Library Manager to get the new symbols and footprints to show up: please refer to the GitHub link below for full documentation and installation instructions.\n\nThis is a library of KiCad schematic symbols and PCB footprints for most Arduino modules. You can use them to make your own PCB design which will effortlessly connect with your chosen Arduino module.",
-        "identifier": "com.github.APSP.APSP-kicad-library",
-        "type": "library",
-        "author": {
-            "name": "APSP",
-            "contact": {
-                "web": "https://github.com/APSP-AG"
-            }
-        },
-        "license": "CC-BY-SA-4.0",
-        "resources": {
-            "github": "https://github.com/APSP-AG/KiCad-Library"
-        },
-        "tags": [
-            "footprints",
-            "symbols",
-            "arduino",
-            "modules"
-        ],
-        "versions": [
-            {
-                "version": "1.0.0",
-                "status": "stable",
-                "kicad_version": "6.0",
-                "download_url": "https://github.com/APSP-AG/KiCad-Library/raw/cf57e46c8877c87f829d7ff68c56cbff54e830aa/APSP-Library.zip"
-            }
-        ]
-    }
-    
-    },
-    "resources": {
+        
         "update_time_utc": "2023-05-23 11:01:08",
         "update_timestamp": 1684839668,
-        "url": "https://github.com/APSP-AG/KiCad-Library/raw/cf57e46c8877c87f829d7ff68c56cbff54e830aa/APSP-Library.zip"
+        "url": "https://gitlab.com/kicad/addons/repository/-/raw/main/packages.json"
+    },
+    "resources": {
+        "sha256": "de3a1612ad8d627f99f8cb09d73974374b31f65b26e929cf187ea08de1c633a4",
+        "update_time_utc": "2023-05-23 11:01:08",
+        "update_timestamp": 1684839668,
+        "url": "https://gitlab.com/kicad/addons/repository/-/jobs/artifacts/main/raw/artifacts/resources.zip?job=update"
     }
 }
