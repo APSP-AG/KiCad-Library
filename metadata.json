@@ -25,7 +25,8 @@
         {
             "version": "1.0.0",
             "status": "stable",
-            "kicad_version": "6.0"
+            "kicad_version": "6.0",
+            "download_url": "https://github.com/APSP-AG/KiCad-Library/raw/cf57e46c8877c87f829d7ff68c56cbff54e830aa/APSP-Library.zip"
         }
     ]
 }
